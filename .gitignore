@@ -1,0 +1,8 @@
+.devcontainer/
+.vscode/
+build/
+managed_components/
+trace/
+heaptrace-gdbinit
+debug.log
+```
